@@ -24,24 +24,25 @@ Since my first year in the university, I have founded myself in community servic
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Nodejs-43853D?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-black?style=flat-square&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-100000?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: zaidealshibi@gmail.com">
  <img src="https://img.shields.io/badge/-zaidalshibi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikpr307@gmail.com"/>
 </a>
@@ -50,8 +51,6 @@ Since my first year in the university, I have founded myself in community servic
 </a>
  <a href="https://www.facebook.com/salah.hamawi.7">
  <img src="https://img.shields.io/badge/-SalahAlHamawi-blue?style=flat-square&logo=facebook&logoColor=white&link=https://twitter.com/ritikhere307"/>
-</a>
-</p>
 </a>
 </p>
 
