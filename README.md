@@ -49,8 +49,8 @@ Since my first year in the university, I have founded myself in community servic
 <a href="https://www.linkedin.com/in/zaidalshibi/">
  <img src="https://img.shields.io/badge/-Zaid Alshibi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ritik-rawal-698a18142/"/>
 </a>
- <a href="https://www.facebook.com/salah.hamawi.7">
- <img src="https://img.shields.io/badge/-SalahAlHamawi-blue?style=flat-square&logo=facebook&logoColor=white&link=https://twitter.com/ritikhere307"/>
+ <a href="https://www.facebook.com/zaidalshibi">
+ <img src="https://img.shields.io/badge/-Zaid Alshibi-blue?style=flat-square&logo=facebook&logoColor=white&link=https://twitter.com/ritikhere307"/>
 </a>
 </p>
 
